@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+}
+
+
+table{
+   position: relative;
+   
+    background-color: rgb(232, 203, 255);
+    border: 1px solid;
+   
+}
+
+table  td{
+    border:1px solid;
+    padding: 10px;
+}
+
+table tr{
+    border:1px solid;
+    padding: 10px;
+}
